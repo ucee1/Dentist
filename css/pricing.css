@@ -1,0 +1,102 @@
+*{
+    padding:0;
+    margin:0;
+}
+.booking2{
+    padding: 15px 25px;
+    border: 1px;
+    font-size: small;
+    text-decoration: none;
+    color: #fff;
+    background-color: #00aeef;
+}
+.booking-later{
+    display:none;
+}
+.fom{
+    background-image:url(../images/pexels-george-becker-298611.jpg);
+    background-attachment:fixed;
+    background-size:100% 100%;
+    background-repeat:no repeat;
+}
+h1{
+    color: white;
+    text-align: center;
+    padding: 40px;
+    margin:20px;
+    font-weight: bold;
+    font-family: arial;
+    font-size: 23px;
+    text-transform: uppercase;
+}
+.section3 a{
+    text-decoration: none;
+    color: grey;
+}
+.tr{
+    background-color: #0d6efd;
+    color: #fff;
+}
+.tr1{
+    background-color: whitesmoke;
+}
+.table, tr,thead{
+    padding: 20px;
+    /* border: 3px solid rgb(255, 255, 255); */
+    height: 20px;
+}
+.read-more{
+    padding: 10px 20px;
+    border: none;
+    text-decoration: none;
+    color: #fff;
+    justify-content: center;
+}
+.fom2{
+    background-image:url(../images/pexels-george-becker-298611.jpg);
+    background-attachment:fixed;
+    background-size:100% 100%;
+    background-repeat:no repeat; 
+}
+footer{
+    color:white;
+
+}
+footer p{
+    font-size: small;
+    font-family: arial;
+}
+footer .row{
+    padding:30px;
+}
+footer img{
+    margin:7px 0;
+}
+footer placeholder{
+    padding-right: 5px;
+}
+footer h2{
+    margin:11px 0 ;
+    font-size: 17px;
+    font-weight: bold;
+}
+
+.newsletter placeholder{
+    padding-right: 8px;
+}
+
+
+
+
+
+
+@media screen and (max-width:990px){
+    .booking-later{
+        display:block;
+        background-color: #00aeef;
+        border-radius: 1px;
+        font-size: small;
+        padding: 8px 18px;
+        text-decoration: none;
+    }
+}

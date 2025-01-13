@@ -1,0 +1,332 @@
+*{
+    font-family: montserrat;
+}
+.booking2{
+    padding: 15px 25px;
+    border: 1px;
+    font-size: small;
+    text-decoration: none;
+    color: #fff;
+    background-color: #00aeef;
+}
+.navbar-toggler{
+    /* background-color:#00aeef; */
+    border: 0px;
+}
+.navbar-toggler-icon{
+    color: #fff;
+}
+.navbar-nav{
+    margin:15px;
+}
+.nav-item{
+    padding: 3px;
+}
+
+.carousel-item img{
+    height: 90vh;
+    width: auto;
+}
+
+.carousel-caption h3{
+    font-family: poppins,sans-serif;
+    font-size:4rem;
+    line-height: 70px;
+    
+}
+.carousel-caption p{
+    font-size: 17px;
+    font-family: Arial;
+}
+.booking{
+    background-color: #00aeef;
+    font-size: medium;
+    padding: 12px 40px;
+    text-decoration: none;
+    margin:10px;
+}
+.booking4{
+    border:2px solid #00aeef;
+    font-size: medium;
+    padding: 10px 37px;
+    text-decoration: none;
+}
+.about_us img{
+    height: 100%;
+    width: 70%;
+    float:right;
+}
+.lorem{
+    line-height: 40px;
+}
+.bg1-image{
+    background-image:url(../images/pexels-george-becker-298611.jpg);
+    background-attachment:fixed;
+    background-size:100% 100%;
+    background-repeat:no repeat;
+}
+.im{
+    height: 70%;
+    width: auto;
+    /* margin-top: 70px; */
+}
+h4{
+    font-size: 50px;
+    margin-top: 40px;
+    color: #fff;
+    position:relative;
+}
+
+.hr{
+    width: 15%;
+    height: 3px;
+    color: rgb(6, 207, 243);
+    padding: 3px;
+}
+h5{
+    font-size: 46px;
+    text-align: center;
+    text-decoration: underline;
+    text-decoration-color: #0d6efd;
+    text-decoration-thickness: 5px;
+    margin: 40px;
+}
+.read-more{
+    padding: 10px 20px;
+    border: none;
+    text-decoration: none;
+    color: #fff;
+    justify-content: center;
+}
+.tr{
+    background-color: #0d6efd;
+    color: #fff;
+}
+.tr1{
+    background-color: whitesmoke;
+}
+.table, tr,thead{
+    padding: 20px;
+    /* border: 3px solid rgb(255, 255, 255); */
+    height: 20px;
+}
+.booking-later{
+    display: none;
+}
+
+.fom{
+    background-image:url(../images/pexels-george-becker-298611.jpg);
+    height:80vh;
+    width:100%;
+    background-attachment:fixed;
+    background-size:cover;
+    background-repeat:no repeat;
+    padding: 30px;
+}
+.form-control{
+    border: none;
+    border-radius: 1px;
+    font-size: 14px;
+    font-style: italic;
+    font-family: arial;
+    padding: 10px;
+}
+.textarea{
+    border: none;
+    border-radius: 1px;
+    font-style: italic;
+    font-family: arial;
+    font-size: 14px;
+    padding: 15px;
+    color: white;
+    width: 100%;
+    height: 50%;
+}
+h6{
+    font-size: 30px;
+}
+
+.team{
+    display: flex;
+}
+.our-dentist{
+    font-size: 30px;
+}
+.michael-txt{
+    margin-left: 63px;
+    margin-right: 48px;
+    background: #35528f;
+}
+.michael-img img{
+    height: 70%;
+    width:70%;
+    background: whitesmoke;
+
+}
+.john-txt{
+    margin-left: 63px;
+    margin-right: 48px;
+    background: #35528f;
+}
+.john-img img{
+    height: 70%;
+    width:70%;
+    background: whitesmoke;
+
+}
+.haley-txt{
+    margin-left: 63px;
+    margin-right: 48px;
+    background: #35528f;
+}
+.haley-txt p{
+    font-style: 28px;
+}
+.haley-img img{
+    height: 70%;
+    width:70%;
+    background: whitesmoke;
+}
+.round img{
+    border-radius: 50%;
+    height: 100%;
+    width: 20%;
+}
+.second-carouse{
+    display:flex;
+}
+.icos img{
+    margin: 15px;
+    height:50px;
+    width: auto;
+}
+.icos{
+    text-align:center;
+}
+.services-img{
+    height: 80%;
+    width: 100%;
+    margin-top: 85px;
+}
+.section5 .col p{
+    margin: 10px 0px 0px 0px;
+}
+.fom1{
+    background-image:url(../images/pexels-george-becker-298611.jpg);
+    background-attachment:fixed;
+    background-size:100% 100%;
+    background-repeat:no repeat;
+}
+.section9 img{
+    border-radius: 50%;
+    width: 80px;
+    height: 80px;
+}
+blockquote p{
+    line-height:30px;
+}
+.card-title{
+    padding:15px;
+}
+.card-title p{
+    padding-top:14px;
+}
+.card img{
+    width: 100%;
+}
+.card{
+    border:1px;
+}
+h1{
+    font-size: 16px;
+}
+.fom2{
+    background-image:url(../images/pexels-george-becker-298611.jpg);
+    background-size: 100% 100%;
+    background-attachment:fixed;
+    background-repeat:no repeat;
+}
+footer{
+    color:white;
+
+}
+footer p{
+    font-size: small;
+    font-family: arial;
+}
+footer .row{
+    padding:30px;
+}
+footer img{
+    margin:7px 0;
+}
+footer placeholder{
+    padding-right: 5px;
+}
+footer h2{
+    margin:11px 0 ;
+    font-size: 17px;
+    font-weight: bold;
+}
+.newsletter{
+    padding:30px;
+}
+.newsletter placeholder{
+    padding-right: 8px;
+}
+
+
+@media screen and (max-width:990px){
+    /* .services-img{
+        display: none;
+    } */
+    
+    .about_us img{
+        margin: 10px;
+        height: 100%;
+        width: auto;
+        float: right;
+    }
+    .carousel-item img{
+        height: 70vh;
+        width: auto;
+    }
+    .logo{
+        height: 20%;
+        width:20%;
+    }
+    .top-header{
+        display: none;
+    }
+    .booking2{
+        display: none;
+    }
+    .booking-later{
+        display:block;
+        background-color: #00aeef;
+        border-radius: 1px;
+        font-size: small;
+        padding: 8px 18px;
+        text-decoration: none;
+    }
+    .carousel-caption h3{
+        font-size:27px;
+        line-height: 30px;
+    }
+    .carousel-caption p{
+        font-size: 10px;
+        font-family: Arial;
+    }
+    .carousel-btn{
+        padding-bottom: 49px;
+    }
+    .carousel-btn a{
+        font-size: 7px;
+        /* margin: 5px; */
+    }
+    .booking-now{
+        padding: 8px 10px;
+        color: #fff;
+    }
+    
+}
